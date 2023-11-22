@@ -5,4 +5,9 @@ class Main{
         new TicTacToe();
         
     }
+
+    @Override
+    public String toString() {
+        return "Main []";
+    }
 }
